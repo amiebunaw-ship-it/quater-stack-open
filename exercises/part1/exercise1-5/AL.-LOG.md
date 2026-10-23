@@ -2,7 +2,7 @@
 
 1. What I Asked AI
 
-I asked ChatGPT to help me create and organise my About Me HTML page and describe my learning interests and database experience.
+I asked ChatGPT to help me create and organise my About Me HTML page.
 
  2. What AI Provided
 

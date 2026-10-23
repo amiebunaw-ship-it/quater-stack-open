@@ -14,10 +14,6 @@ I selected Casa Afriqa as the business. I used prices published on its online me
 
  4. Validation
 
-I checked the page using the W3C HTML Validator.
+I checked the page using the Validator w3 .org.
 
-Validation result:it shows that there is no error
-
- 5. What I Learned
-
-I learned how to use ordered list and unordered lists correctly
+Validation result:it shows that there is no error 
